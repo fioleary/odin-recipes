@@ -1,4 +1,6 @@
 
+
+
 h1 {
     text-align: center;
     color: #457877;
@@ -9,3 +11,34 @@ h1, h3, h4 {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+.recipeList{
+    margin: 0 50px 20px 50px;
+    border: dotted 1px coral;
+    padding: 10px 30px 10px 30px;
+    background: rgb(220, 220, 244);
+}
+
+.recipeBoxes {
+    text-align: center;
+    border-top: dotted 1px coral;
+}
+
+.funBox {
+    padding: 8px 15px;
+    display: inline-block;
+}
+
+.eggplantParm {
+    background-color: #f7bbe7;
+
+}
+
+.sesameNoodles{
+    background-color: #bbf7d1;
+
+}
+
+.cereal {
+    background-color: #f6f7bb;
+
+}
